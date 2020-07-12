@@ -1,0 +1,13 @@
+.box{
+	padding-top: 100px;
+	text-align: center;
+	background: #E6E6E6;
+}
+.box img{
+	height: auto;
+	width: 80%;
+	border: 8px solid #007BFF;
+}
+.header-content h2{
+	font-size: 60px;
+}
